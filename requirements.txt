@@ -6,7 +6,7 @@ h11==0.14.0
 httptools==0.5.0
 idna==3.4
 numpy
-pandas==1.5.3
+pandas
 pydantic==1.10.6
 python-dateutil==2.8.2
 python-dotenv==1.0.0
